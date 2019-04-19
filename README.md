@@ -1,4 +1,4 @@
-### Heuristics Workshop
+### Minimax Workshop
 This is the starter code for the Minimax workshop. The second of a three part series focusing on traditional AI techniques.
 This session will focus on adverserial search and we'll implement the minimax algorithm to play connect 4 !
 
