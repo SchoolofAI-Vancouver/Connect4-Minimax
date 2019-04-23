@@ -29,3 +29,8 @@ This session will focus on adverserial search and we'll implement the minimax al
     conda install matplotlib
     conda install jupyter notebook
     ```
+
+### Instructions
+Navigate to the directory and open Connect4.ipynb
+
+    jupyter notebook Connect4.ipynb
