@@ -2,6 +2,13 @@
 This is the starter code for the Minimax workshop. The second of a three part series focusing on traditional AI techniques.
 This session will focus on adverserial search and we'll implement the minimax algorithm to play connect 4 !
 
+To successfully minimax you will need to follow the instructions for the following MinimaxPlayer class methods in agent.py:
+    
+    - minimax()
+    - min_value()
+    - max_value()
+    - minimax_search()
+
 ### Getting Started
 1. Make sure you have [Python 3.6](https://www.python.org/) installed.
 
